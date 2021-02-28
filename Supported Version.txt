@@ -1,0 +1,13 @@
+==================
+Windows
+SUPPORTED
+==================
+Mac
+NOT SUPPORTED
+==================
+Mobile
+NOT SUPPORTED
+==================
+Linux
+NOT SUPPORTED
+==================
